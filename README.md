@@ -78,7 +78,7 @@ Wanted to make a website to showcase my HTML & CSS skills and also allow me to s
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To view the website, you can either go to this [link](2016moreno.github.io) or get a local copy up and running follow these simple steps.
+To view the website, you can either go to this [link](https://2016moreno.github.io/) or get a local copy up and running follow these simple steps.
 
 1. Clone and open in your preferred IDE
 2. Open the HMTL page in your preferred browser to see the website.
