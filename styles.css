@@ -167,6 +167,7 @@ nav {
     overflow: hidden;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.45);
     margin-bottom: 28px;
+    padding-top: 20px;
     animation: animate-profile-picture 800ms 200ms backwards;
 }
 
@@ -289,6 +290,20 @@ nav {
     justify-content: center;
     width: 100%;
     flex-wrap: wrap;
+    animation: language-fade-in 1200ms 800ms backwards;
+}
+
+.section_title {
+    animation: language-fade-in 1200ms 800ms backwards;
+}
+
+@keyframes language-fade-in {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
 .language_name {
@@ -455,6 +470,7 @@ footer {
     nav {
       height: 68px;
     }
+
   
     h1 {
       font-size: 28px;
